@@ -1,1 +1,3 @@
+STILL IN THE PROCESS OF ORGANIZING-----
+
 A custom implementation of a quadcopter flight controller built on the STM32 microcontroller. This project covers the entire development cycle: from raw sensor data processing and stabilization algorithms to generating precise PWM signals for motor control.
