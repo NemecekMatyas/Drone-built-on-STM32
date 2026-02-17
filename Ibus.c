@@ -1,3 +1,5 @@
+//NOT MY CODE, BUT ESSENTIAL FOR WORKING
+
 
 #include "ibus.h"
 
@@ -84,3 +86,4 @@ void ibus_reset_failsafe()
 {
 		fail_safe_flag = 0; // flag reset
 }
+
