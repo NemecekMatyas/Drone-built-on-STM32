@@ -1,2 +1,1 @@
-This project as well as many others I will upload will be just me trying to learn programming threw funny projects.
-Since I'm using CubeIDE, which creates a lot of uninteresting and unnecessary folders, I'll only add folders where something had to be changed for the sake of the project. 
+A custom implementation of a quadcopter flight controller built on the STM32 microcontroller. This project covers the entire development cycle: from raw sensor data processing and stabilization algorithms to generating precise PWM signals for motor control.
