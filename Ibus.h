@@ -1,9 +1,3 @@
-/*
- * flysky_ibus.h
- *
- *  Created on: Feb 4, 2021
- *      Author: mokhwasomssi
- */
 
 
 #ifndef __IBUS_H__
