@@ -1,5 +1,3 @@
-//NOT MY CODE, BUT ESSENTIAL FOR WORKING
-
 
 #include "ibus.h"
 
